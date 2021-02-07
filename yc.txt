@@ -1,5 +1,5 @@
 远程执行黑utw(null,"哈喽~","背景模糊有问题?\n在设置-模糊补偿-开启，可自定义补偿，建议100起步\n\n有问题可在设置中反馈！","知道了",true, v)
-<br>{<br>endutw()<br>}<br>us(3,"background","#803935")<br>us(搜索.2,"visibility",8)<br>us(搜索.1,"background","#80212121")<br>远程执行黑
+<br>{<br>endutw()<br>}<br>us(3,"background","#333935")<br>us(搜索.2,"visibility",8)<br>us(搜索.1,"background","#80212121")<br>远程执行黑
 
 
 图片显示https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202006%2F19%2F20200619222925_vYv4X.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1615286705&t=f12cf3c0117ff11bff9f418a3ada93ec图片显示

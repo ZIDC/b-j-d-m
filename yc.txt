@@ -1,5 +1,5 @@
-远程执行黑utw(null,"特别说明","哔哩哔哩:无知转生由于技术问题暂时下架\n\n背景模糊有问题?\n在设置-模糊补偿-开启，可自定义补偿，建议100起步\n\n有问题可在设置中反馈！","知道了",true, v)
-<br>{<br>endutw()<br>}<br>tw("离新年还有三天")远程执行黑
+远程执行黑utw(null,"牛气冲天","祝大家新年快乐！","新年快乐",true, v)
+<br>{<br>endutw()<br>hws("https://app.cctv.com/special/m/topic/index.html?itemId=1422")<br>}<br>tw("新年快乐")远程执行黑
 
 
-图片显示https://inews.gtimg.com/newsapp_bt/0/12245117095/1000图片显示
+图片显示https://imusae-download.90sheji.com/imusae/download/2021/01/01/8e139b0325c14db9bf1616504d0f718a.png?sign=841392735270ea4feed9383ab2bfa596&t=6025cf13&imageMogr2/thumbnail/x668/crop/!668x-0a0/auto-orient/interlace/1/quality/90/format/webp/watermark/url/LzkwX3dhdGVyX3Y2LnBuZw==/repeat/true图片显示

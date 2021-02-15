@@ -1,5 +1,4 @@
-远程执行黑utw(null,"牛气冲天","祝大家新年快乐！","新年快乐",true, v)
-<br>{<br>endutw()<br>hws("https://app.cctv.com/special/m/topic/index.html?itemId=1422")<br>}<br>tw("新年快乐")远程执行黑
+远程执行黑远程执行黑
 
 
-图片显示https://imusae-download.90sheji.com/imusae/download/2021/01/01/8e139b0325c14db9bf1616504d0f718a.png?sign=841392735270ea4feed9383ab2bfa596&t=6025cf13&imageMogr2/thumbnail/x668/crop/!668x-0a0/auto-orient/interlace/1/quality/90/format/webp/watermark/url/LzkwX3dhdGVyX3Y2LnBuZw==/repeat/true图片显示
+图片显示https://gimg2.baidu.com/image_search/src=http%3A%2F%2F03imgmini.eastday.com%2Fmobile%2F20181115%2F20181115231608_78ad860552a8c816bfa66251a41db639_3.jpeg&refer=http%3A%2F%2F03imgmini.eastday.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1615944936&t=61acb72fd5489b8688e0ac1c2fc7b0a7图片显示

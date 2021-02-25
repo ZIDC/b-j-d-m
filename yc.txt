@@ -1,5 +1,4 @@
-远程执行黑utw(null,"新版本预告","新版本将新增追番(由于一些问题没解决，正在解决)\n由于Android 11的文件储存机制，导致app无法访问dat文件\n因为本app相关设置和数据缓存都在这个目录\n转换文件途径工程量大，因为考虑到一些用户是安卓11以下系统，文件储存途径不一样，搞得我头大\n\n新版本还会添加（设置补偿模糊）引导","难搞哦",true, v)
-<br>{<br>endutw()<br>}远程执行黑
+远程执行黑utw(null,"更新计划","后续更新计划，点击详细进行查看","详细",true, v)<br>{<br>endutw()<br>hws("https://shimo.im/docs/Vhc69G36qq3p3vgh")<br>}<br>远程执行黑
 
 
 图片显示https://pics6.baidu.com/feed/902397dda144ad34e8df99656cadd9f130ad8581.jpeg?token=83964eaf3a9237143d34a76a6cda50b6&s=F002FEB44812F5EF4B25C16003001072图片显示

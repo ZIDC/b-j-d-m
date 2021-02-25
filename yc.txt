@@ -1,3 +1,3 @@
-远程执行黑utw(null,"更新计划","后续更新计划，点击详细进行查看","详细","关闭",true, v)<br>{<br>endutw()<br>hws("https://shimo.im/docs/Vhc69G36qq3p3vgh")<br>}<br>else() <br>{<br> endutw <br>}远程执行黑
+远程执行黑utw(null,"更新计划","后续更新计划，点击详细进行查看","详细","关闭",true, v)<br>{<br>endutw()<br>hws("https://shimo.im/docs/Vhc69G36qq3p3vgh")<br>}<br>else()<br>{<br>endutw<br>}远程执行黑
 
-图片显示http://pic.jj20.com//up/allimg/811/0R014101609/140R0101609-0.jpg图片显示
+图片显示https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201802%2F04%2F20180204164224_zfhlm.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1616859990&t=d3d33215b9fcc25189916f622ade0168图片显示

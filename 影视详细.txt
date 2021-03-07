@@ -1,0 +1,1 @@
+s bt="新提示"<br>s nr="部分追番无法播放已经修复！\n有任何问题还请大家在设置中反馈！"<br>s tim="最后修改时间2021-3-10"<br>ufnsui()<br>{<br>us(弹窗.1,"visibility",0)<br>us(弹窗.5,"text",bt)<br>us(弹窗.11,"text",nr)<br>us(弹窗.14,"text",tim)<br>}

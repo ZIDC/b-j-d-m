@@ -1,0 +1,316 @@
+@charset "UTF-8";
+body,dl,dd,h1,h2,h3,h4,h5,h6,p,form{margin:0}
+ul,ol{margin:0;padding:0}
+table,td,th{border-collapse:collapse}
+ol,ul,li{list-style:none}
+h1,h2,h3{font-size:100%;font-weight:normal;}
+img,input,textarea{vertical-align:middle;border:0}
+a{text-decoration:none;outline:0}
+a:hover,a:active{text-decoration:none;outline:0}
+body{font-family:"Microsoft YaHei","Helvetica Neue",Helvetica,STHeiTi,sans-serif;position:relative;-webkit-text-size-adjust:none;}
+a,img{-webkit-touch-callout:none}
+.clearfix:before,.clearfix:after{content:"";display:table}
+.clearfix:after{clear:both;overflow:hidden}
+.clearfix{zoom:1}
+.fl{float:left}
+.fr{float:right}
+.els{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+body{margin:0 auto;}
+a,input{-webkit-tap-highlight-color:rgba(0,0,0,0)}
+::-webkit-scrollbar{width:0}
+article {display:block;}
+* {box-sizing: border-box;}
+img{width: 100%}
+body{
+    background: #f0f1f3
+}
+section{
+    background: #fff;
+    margin-bottom: 14px;
+    padding:30px 26px;
+}
+.app-info{
+    text-align: center;
+    overflow: hidden;
+}
+.app-logo{
+    width: 152px;
+    height: 152px;
+    border-radius: 20px;
+    margin:88px auto 30px;
+}
+.app-name{
+    color: #333;
+    font-size: 20px;
+    text-align: center;
+}
+.starContainer{
+    position: relative;
+    margin:20px auto;
+}
+.starContainer, .star_top {
+    background: url(star.png) 0 0 repeat-x;
+    width: 175px;
+    height: 28px;
+    background-size: 35px 56px;
+    overflow: hidden;
+    background-position: 0 -28px;
+}
+.starContainer .star_bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: 0 0;
+    z-index: 10;
+}
+.app-downloads{
+    color: #999;
+    font-size: 24px;
+}
+.app-downloads span{
+    margin:0 16px;
+}
+.btn{
+    margin:72px 30px 32px ;
+    /* display:  -webkit-box;
+    -webkit-box-pack:justify; */
+}
+.btn .dbtn{
+    display: block;
+    color: #028be7;
+    border:2px solid ;
+    height: 74px;
+    line-height: 72px;
+    border-radius: 12px;
+    width: 400px;
+    margin: 0 auto;
+     
+    font-size: 28px
+}
+.btn .btn-download {
+    border: none;
+    color: #999;
+}
+.btn .btn-download-zhushou{
+    background: #068de7;
+    color: #fff
+}
+.btn-download-zhushou i{
+    display: inline-block;
+    width: 42px;
+    height: 41px;
+    background: url(http://p7.qhimg.com/d/inn/c9bd35c1/safe_logo.png);
+    background-size: 100% 100%;
+    margin-right: 12px;
+    position: relative;
+    top: 9px;
+
+}
+
+.title{
+    color: #333;
+    font-size: 32px;
+    font-weight: bold;
+}
+.app-image{
+    margin:30px 0 26px;
+    overflow: hidden;
+        overflow-x: auto;
+    white-space: nowrap;
+}
+.app-image img{
+    width: 238px;
+    height: 367px;
+    margin-right:10px;
+}
+.app-about{
+    color: #333;
+    font-size: 28px;
+}
+.app-about span{
+    display: block;
+    padding: 20px 0;
+    color: #999;
+    font-size: 24px;
+    text-align: right;
+}
+.app-about span i {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 12px;
+    background: url(http://p7.qhimg.com/d/inn/c9bd35c1/more.png);
+    background-size: 100% 100%;
+    margin-left: 8px
+}
+.desc-full span i{
+    background-image: url(http://p7.qhimg.com/d/inn/c9bd35c1/more_up.png);
+}
+.app-list{
+    padding: 30px 14px;
+    display: -webkit-box;
+}
+.app{
+    display: block;
+    width: 120px;
+    margin: 30px;
+}
+.app span{
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    color: #404040;
+    font-size: 28px;
+}
+.app img{
+    width: 120px;
+    height: 120px;
+    margin-bottom: 20px;
+    display: block;
+}
+.comment-list {
+    margin-top: 32px;
+}
+.comment-item {
+    display: -webkit-box;
+    -webkit-box-pack: justify;
+    margin-bottom: 48px;
+}
+.comment-avatar {
+    width: 86px;
+    height: 86px;
+    background: url(http://p5.qhmsg.com/d/inn/1011144b/pl/face.png) no-repeat;
+    background-size: contain;
+    border-radius: 50%;
+    margin-right: 16px;
+}
+.comment-detail {
+    -webkit-box-flex: 1;
+}
+.comment-username ,.comment-more{
+    font-size: 24px;
+    color: #999
+}
+.comment-textinfo {
+    margin-bottom: 16px;
+    word-break: break-word;
+    font-size: 26px;
+    color: #333
+}
+.comment-more {
+    display: -webkit-box;
+    -webkit-box-pack: justify;
+}
+.comment-time {
+    -webkit-box-flex: 1;
+}
+.comment-like {
+    padding: 0 24px 0 64px;
+    background-image: url(http://p7.qhimg.com/d/inn/c9bd35c1/zan.png);
+    background-size: contain;
+    background-position: 24px center;
+    background-repeat: no-repeat;
+}
+.comment-replies{
+    padding: 0 0 0 64px;
+    background-image: url(http://p7.qhimg.com/d/inn/c9bd35c1/replies.png);
+    background-size: contain;
+    background-position: 24px center;
+    background-repeat: no-repeat;
+}
+.comment-star{
+    position: relative;
+    margin:15px 0;
+}
+.comment-star, .star {
+    background: url(star.png) 0 0 repeat-x;
+    width: 130px;
+    height: 21px;
+    background-size: 26px 42px;
+    overflow: hidden;
+    background-position: 0 -21px;
+}
+.comment-star .star_bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: 0 0;
+}
+.btn-comment-more{
+    display: block;
+    margin:40px 0 ;
+    color: #999;
+    font-size: 26px;
+    text-align: center;
+}
+.search-form-container{
+    height: 92px;
+   background: #fff;
+    padding:0 26px 0 30px;
+        border-bottom: 1px solid #ebebeb;
+}
+.search-form{
+     display: -webkit-box;
+         -webkit-box-align: center;
+    height: 100%;
+}
+
+.search-form .logo{
+    width: 64px;
+    height: 64px;
+}
+.input-container{
+    -webkit-box-flex:1;
+    margin:0 26px;
+    position: relative;
+}
+.input-container:before{
+    content: '';
+    width: 48px;
+    height: 48px;
+    background: url(http://p7.qhimg.com/d/inn/fd1b2964/web_search.png);
+    background-size: 100% ;
+        display: block;
+    position: absolute;
+    top: 8px;
+    left: 20px;
+}
+input.q{
+    width: 100%;
+    height: 64px;
+    background: #f0f0f2;
+    padding-left: 76px;
+    color: #0B1B28;
+    font-size: 24px;
+    border-radius: 100px;
+    border:0;
+    outline:none;
+}
+
+.search-button{
+    font-size: 28px;
+    color: #333;
+    background: #fff;
+    font-weight: bold;
+}
+.btn-dianjing,.btn-installed{
+    width: 100%;
+    display: block;
+    color: #028be7;
+    border: 2px solid;
+    height: 74px;
+    line-height: 72px;
+    border-radius: 12px;
+    font-size: 28px;
+    width: 60%;
+    margin: 0 auto;
+}
+.btn-installed{
+    display: none;
+}
+.app-moreinfo{
+    margin:40px 0 20px;
+    color: #999;
+    font-size: 24px;
+    line-height: 2
+}

@@ -482,16 +482,3 @@
 
 -设置选择浏览器播放将不再跳转系统浏览器增强播放体验
 #
-
-
- <center> <a href="https://www.lanzoui.com/b04n5j3yj" data-sid="7953" class="app-item dbtn js-downloadBtn btn-download-zhushou wx-down" >Android(密码:6666)</a></center><br>
-
-
-
- <center></span>
-      <span class="location-text animate-slide-in-down"><span style="font-size:10px">Copyright &copy;&nbsp;2021&nbsp; www.cjzwj.top &nbsp;All rights reserved.<br></center>
-                                                               <center><a href="http://beian.miit.gov.cn">苏ICP备20014892号-1</a><br>
-                                                              <script type="text/javascript" src="https://v1.cnzz.com/z_stat.php?id=1278601974&web_id=1278601974"></script>
-                                                              </center></span></span>
-
-

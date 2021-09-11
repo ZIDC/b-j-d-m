@@ -1,8 +1,7 @@
-(mian)us(9,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.11,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.30,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.31,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>(mian)
+(mian)us(9,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.5,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.11,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.30,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.31,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(加载新.5,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(搜索.9,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(搜索推荐.5,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(搜索推荐.11,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(搜索推荐.30,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(搜索推荐.31,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(搜索推荐.32,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")(mian)
 
 
-(playBf)
-(playBf)
+(playBf)us(48,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(32,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")(playBf)
 
 
-(设置)(设置)
+(设置)us(13,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(14,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(6,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(55,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(56,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")(设置)

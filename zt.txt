@@ -1,10 +1,8 @@
-(mian)
+(mian)us(9,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.11,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.30,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>us(弹窗.31,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>(mian)
 
-us(9,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>
-us(弹窗.11,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>
-us(弹窗.30,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>
-us(弹窗.31,"typeface","%Android/data/com.cjzwjdm/files/01.ttf")<br>
 
-(mian)
-()()
-()()
+(playBf)
+(playBf)
+
+
+(设置)(设置)

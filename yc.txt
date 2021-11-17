@@ -1,5 +1,4 @@
-远程执行黑utw(null,"更新预告","修复闪退问题，优化布局参数，新增影视详细简洁弹窗界面和非简洁界面，部分utw弹窗优化等等\n由于一些原因这么长时间没更新了\n具体更新内容请期待2021-11-25号更新","期待一波",true, v)<br>{<br>endutw()<br>}
-
+远程执行黑utw(null,"更新预告","修复闪退问题，优化布局参数，新增影视详细简洁弹窗界面和非简洁界面，部分utw弹窗优化等等\n由于一些原因这么长时间没更新了\n具体更新内容请期待2021-11-25号更新","期待一波","Best.Up",true, v)<br>{<br>endutw()<br>}<br>else<br>{<br>hws("http://cjzwj.gitee.io/picture/com.cjzwjdm/com.cjzwjdm-3720-Best")<br>}
 远程执行黑
 
 图片显示https://img2.doubanio.com/view/photo/l/public/p2681439043.webp图片显示

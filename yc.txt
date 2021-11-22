@@ -1,4 +1,4 @@
-远程执行黑utw(null,"更新预告","修复闪退问题，优化布局参数，新增影视详细简洁弹窗界面和非简洁界面，部分utw弹窗优化等等\n由于一些原因这么长时间没更新了\n具体更新内容请期待2021-11-25号更新","期待一波","测试1版",true, v)<br>{<br>endutw()<br>}<br>else<br>{<br>hws("https://wwa.lanzoui.com/iKQtIwn52ah")<br>}<br><br>sss 网址m="http://m.imomoe.live"<br>sss 网址="http://www.imomoe.live"<br>
+远程执行黑utw(null,"测试通知","内部已经进入最后测试阶段","期待一波","测试1版",true, v)<br>{<br>endutw()<br>}<br>else<br>{<br>hws("https://wwa.lanzoui.com/iKQtIwn52ah")<br>}<br><br>sss 网址m="http://m.imomoe.live"<br>sss 网址="http://www.imomoe.live"<br>
 
 远程执行黑
 
